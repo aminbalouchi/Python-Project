@@ -1,5 +1,5 @@
 
-# Building Finance Management
+# Finance Management of a Building
 ## Video Demo:  <https://youtu.be/KgBHkQYhUbg>
 ## Description:
 ### Group members : 
