@@ -2,8 +2,8 @@
 # Finance Management of a Building
 ## Video Demo:  <https://youtu.be/KgBHkQYhUbg>
 ## Description:
-### Group members : 
-Amir Hossein Ghazi Moradi, Mohammad Amin Balouchi, Marzieh Ghanbari
+### Author: 
+Mohammad Amin Balouchi
 
 ---  
 
@@ -14,8 +14,6 @@ Amir Hossein Ghazi Moradi, Mohammad Amin Balouchi, Marzieh Ghanbari
   
 3.Reference to the code (modules, how each section works and visual output)
   
-4.Describe the process of doing and dividing the work and the challenges of the team 
-
 ---
 
 ### Introduction
